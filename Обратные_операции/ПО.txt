@@ -1,0 +1,30 @@
+Необходимое ПО:
+
+- Notepad++;
+https://notepad-plus-plus.org/downloads/
+
+- Visual Studio;
+https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+Также необходимо накинуть туда различных языков программирования: Python, Java, C, C++, JavaScript, C#, Go
+Заменяемо на другие среды разработки, если они установлены.
+
+- IDA Freeware;
+https://hex-rays.com/ida-free/#download
+
+- 7Zip;
+https://www.7-zip.org
+
+- VMware Workstation Player 
+https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+
+- Wireshark
+https://www.wireshark.org/download.html
+
+Также в закладки браузера необходимо добавить следующие веб-сайты (желательно вывести на панель закладок): 
+- https://exifdata.com 
+- https://2gis.ru/ufa 
+- https://md5decrypt.net
+- https://crackstation.net
+- https://deobfuscate.io
+
+Ещё думаю, нужно сразу скачать файл для задания по форензике (10 Гб): https://disk.yandex.ru/d/5wnLt7SzOOn-RA
